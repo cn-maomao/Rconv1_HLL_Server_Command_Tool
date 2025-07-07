@@ -85,5 +85,12 @@ Python hll_rcon_console.py
 
 该项目在 MIT 许可证下可用。有关详细信息  ，请参阅 [LICENSE]（LICENSE）
 
+## 更新计划
+
+* 1、由于未知问题导致若长时间未给服务器发送指令会导致连接断开，后续将尝试每隔1分钟发送登陆指令以防止断开连接
+* 2、添加Web 图形化界面
+* 3、新增更多自动化功能，例如快速部署、击杀查询、玩家积分等丰富功能(目前仅打算开源基础内容学习交流)
+* 4、更多计划正在开发中
+  **如果你有不错的想法欢迎[Create new issue](https://github.com/cn-maomao/HLL_Server_Command_Tool/issues/new)**
 
 

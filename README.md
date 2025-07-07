@@ -1,0 +1,2 @@
+# HLL_Server_Command_Tool
+人间地狱游戏服务器命令行连接工具
